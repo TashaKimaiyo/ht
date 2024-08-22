@@ -1,0 +1,14 @@
+body{ margin:0;} 
+*{font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal; }
+    
+
+    .green{ color:#6CB840 ;}
+    .orange{ color:#EAAB1B ;}
+    #art3{background-color: #C9ECB5 ; width: 100%;  }
+    .tx1{ width:100%}
+    .ben{ color: white; background-color:#6CB840;}
+    #art4{ background-color:#FFD77C;}
+    
+#f{ background-color:#C9ECB5 ; float: bottom; height: 2%;}
